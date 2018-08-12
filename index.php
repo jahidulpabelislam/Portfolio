@@ -87,6 +87,15 @@ include $_SERVER['DOCUMENT_ROOT'].'/inc/header.php';
                     <a class="btn" href="/projects/">View All My Work</a>
                 </div>
 
+                <div class="article article--blue article--50-50">
+                    <div class="container">
+                        <div class="article-50" style="margin: auto;">
+                            <p class="article__header">&ldquo; TEST... &bdquo;</p>
+                            <p style="text-align: right; font-style: italic">- TEST: TEST</p>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="article article--green">
                     <div class="container">
                         <div class="stats">
